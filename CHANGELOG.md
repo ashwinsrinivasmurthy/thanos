@@ -44,7 +44,6 @@ NOTE: Querier's `query.promql-engine` flag enabling new PromQL engine is now unh
 - [#5948](https://github.com/thanos-io/thanos/pull/5948) Store: `chunks_fetched_duration` wrong calculation.
 - [#5910](https://github.com/thanos-io/thanos/pull/5910) Receive: Fixed ketama quorum bug that was could cause success response for failed replication. This also optimize heavily receiver CPU use.
 - [#5997](https://github.com/thanos-io/thanos/pull/5997) Rule: switch to miekgdns DNS resolver as the default one.
->>>>>>> origin/main
 
 ### Added
 
